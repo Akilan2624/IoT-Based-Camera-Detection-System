@@ -48,5 +48,5 @@ The ESP32-CAM continuously monitors the surroundings using its camera. When moti
 Project images are available in the Images folder.
 
 ## Author
-Akilan Deekshi
+Akilan 
 B.E. Electronics and Communication Engineering

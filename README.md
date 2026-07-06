@@ -2,7 +2,7 @@
  
 ## Overview
 The IoT Based Camera Detection System is a smart surveillance project designed to detect objects or human presence using a camera module and IoT technology. The system captures images or video, processes the data, and sends notifications to the user for real-time monitoring and improved security.
-
+  
 ## Objectives
 - Detect human or object movement.
 - Provide real-time monitoring.

@@ -10,8 +10,8 @@ The IoT Based Camera Detection System is a smart surveillance project designed t
 - Enable remote access through IoT.
 
 ## Components Used
-- ESP32-CAM
-- Camera Module
+- ESP32-CAM 
+- Camera Modules
 - Wi-Fi Network
 - Power Supply
 - Jumper Wires
